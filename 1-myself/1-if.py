@@ -4,7 +4,6 @@
 print "请输入任意一个整数数字："
 
 number = int(raw_input())
-
 if number == 10:
     print "您输入的数字是：%d" % number
     print "You are SMART."
